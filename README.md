@@ -1,16 +1,30 @@
-## Hi there 👋
+## ​ Hi! I'm **Damián Álvarez** 👋
 
-<!--
-**damianalvarezholguin/damianalvarezholguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer | Cloud & DevOps**  
+📍 Madrid, Spain
 
-Here are some ideas to get you started:
+Backend developer at [Zityhub](https://www.zityhub.com/) with 2+ years of experience in building scalable web applications and microservices. 
+Currently exploring **data analysis and data-driven applications** 📊, with a strong interest in combining backend systems with data insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### ​ Tech Stack
+-  ⚒️ Node.js · TypeScript · JavaScript · Java
+-  💾 SQL · MongoDB · Redis  
+-  🚀 Docker · Kubernetes · CI/CD (CircleCI)  
+-  ⚙️ Git · Bash · Jira
+-  ☁️ Google Cloud · Cloudflare
+
+---
+
+###  About Me
+-  English: C2 proficiency  
+-  Agile/Scrum team player  
+-  Problem-solver mindset
+
+---
+
+###  Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-alvarez-holguin-a255a1150/)  
+**Email**: damianalvarezholguin@gmail.com
